@@ -1,0 +1,2 @@
+I need a Render Texture tool that allows to have screen(s) to remote control drone, car and drone.
+The screen must be world space as it is for XR.
