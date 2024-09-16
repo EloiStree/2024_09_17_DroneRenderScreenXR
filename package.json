@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.renderscreenxr",                              
+  "displayName": "Drone Render Screen XR",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "A simple Renderer Texture to  have a monitor of a drone remote camera.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_09_17_DroneRenderScreenXR.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
